@@ -1,3 +1,4 @@
+console.log("Miniproject2");
 var Question=["what is the color of fruit orange?","what is the capital of India?","who invented telephone?"]
 var option=["red,pink,yellow","agra,Delhi,chennai","Albert,Bell,Marcus"]
 var correct_ans=["orange","Delhi","Bell"]

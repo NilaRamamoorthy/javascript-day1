@@ -1,10 +1,11 @@
-let a=null
-var b
+console.log("Task9");
+let a1=null
+var b1
 {
-    let c=8
+    let c1=8
 }
-console.log(a);
-console.log(b);
-console.log(c);
+console.log(a1);
+console.log(b1);
+console.log(c1);
 
 

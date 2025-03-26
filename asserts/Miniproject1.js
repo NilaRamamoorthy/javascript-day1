@@ -1,3 +1,4 @@
+console.log("Miniproject1");
 var hotel="Buhari"
 var orderno=2345
 var fooditems=["chicken 65","mutton soup","pulav","rosemilk"]

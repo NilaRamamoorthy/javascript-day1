@@ -1,3 +1,4 @@
+console.log("Task8");
 function bol(a,b)
 {
     if(a==b){

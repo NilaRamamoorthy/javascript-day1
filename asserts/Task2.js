@@ -1,3 +1,4 @@
+console.log("Task2");
 var a=100
 console.log(a)
 {

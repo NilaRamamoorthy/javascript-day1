@@ -1,3 +1,4 @@
+console.log("Task12");
 function oddeven(c){
     if(c%2==0)
     {

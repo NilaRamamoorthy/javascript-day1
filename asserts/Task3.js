@@ -1,12 +1,13 @@
-var a=100
-console.log(a)
+console.log("Task3");
+var v1=100
+console.log(v1)
 {
-    let b=200
+    let v2=200
     
-console.log(b)
+console.log(v2)
 }
 
 
-const c=20
-console.log(c)
-console.log(b);
+const v3=20
+console.log(v3)
+console.log(v2);

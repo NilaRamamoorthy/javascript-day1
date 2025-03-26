@@ -1,3 +1,4 @@
+console.log("Task4");
 var fruit="Apple"
 var price=30
 var isFruit=true

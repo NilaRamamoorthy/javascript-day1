@@ -1,3 +1,4 @@
+console.log("Task5");
 const profile={
     username:"Alex",
     age:30,

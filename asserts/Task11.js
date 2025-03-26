@@ -1,3 +1,6 @@
-var BigInt=23142343543534543565n
-var a=BigInt
-console.log(typeof a);
+console.log("Task11");
+BigInt=23142343543534543565n
+var bignum=BigInt
+console.log(typeof bignum);
+
+
